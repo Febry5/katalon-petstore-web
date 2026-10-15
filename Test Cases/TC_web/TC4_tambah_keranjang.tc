@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC4_tambah_keranjang</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>845016af-5cc6-4969-bb9a-e56afdcec3ab</testCaseGuid>
-</TestCaseEntity>
