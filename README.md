@@ -18,5 +18,3 @@ Proyek ini mencakup total **5 Skenario Uji (Test Cases)** yang dijalankan secara
 3. **TC3_cari_produk** (Data-Driven Testing / DDT) - Menguji fitur pencarian produk secara otomatis menggunakan daftar kata kunci (Fish, Dogs, Cats) dari Data Internal.
 4. **TC4_tambah_keranjang** (Positive Case) - Menguji alur memilih kategori hewan hingga sukses masuk ke dalam keranjang belanja.
 5. **TC5_checkout_sukses** (Positive Case) - Menguji alur penuh (End-to-End) dari login akun, belanja produk, hingga penyelesaian pembayaran pesanan (Checkout).
-
-*Seluruh pengujian dikonfigurasi menggunakan mode kombinasi manual-skrip (Hybrid Mode), menggunakan koordinat XPath dinamis yang stabil, dan berhasil lolos uji 100% (Passed).*
